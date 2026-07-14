@@ -1,5 +1,3 @@
-# 💫 About Me:
-# Hi there, I'm Aaliyan Shahid 👋<br><br>I'm a passionate Full Stack Web Developer who enjoys building modern, responsive, and user-focused web applications.<br><br>I primarily work with React, JavaScript, TypeScript, Node.js, Express, SQL, MongoDB, and Supabase. I enjoy turning ideas into production-ready applications with clean code and intuitive user experiences.<br><br>## 🚀 What I'm Working On<br>- Full Stack Web Applications<br>- React & TypeScript<br>- REST APIs<br>- Database Design<br>- UI/UX Development<br>- AI-powered Web Applications<br><br>## 💡 Interests<br>- Modern Web Development<br>- SaaS Products<br>- Automation<br>- AI Integrations<br>- Open Source<br><br>I'm always learning new technologies and building projects that solve real-world problems.
 
 
 ## 🌐 Socials:
